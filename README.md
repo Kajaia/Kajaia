@@ -1,5 +1,5 @@
 ### Hey everyone 👋
-I'm a self-taught full-stack developer working with Laravel, Vue, Bootstrap, and MySQL, currently living in Batumi, Georgia.
+I'm a full-stack developer working with Laravel and Vue. Currently living in Batumi, Georgia.
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
   <a>
