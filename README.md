@@ -1,5 +1,5 @@
 ### Hey everyone 👋
-I'm a full-stack developer working with Laravel and Vue. Currently living in Batumi, Georgia.
+I'm a software developer working with PHP/Laravel. Currently living in Larnaca, Cyprus.
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
   <a>
