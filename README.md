@@ -1,5 +1,5 @@
 ### Hey everyone 👋
-I'm a back-end developer working with PHP/Laravel. Currently living in Larnaca, Cyprus.
+I'm a back-end developer working with PHP/Laravel. Currently living in Batumi, Georgia.
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
   <a>
