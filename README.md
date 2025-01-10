@@ -1,5 +1,5 @@
 ### Hey everyone 👋
-I'm a Full Stack Developer with a solid background since 2019, specializing in Laravel, React, and Vue. Proficient in both front-end and back-end development, with expertise in building robust and scalable web applications. Skilled in utilizing Laravel's simplicity and elegance to create efficient server-side logic, designing user interfaces with React and Vue, and implementing business logic. Experienced in API development, database management, and delivering seamless user experiences. Possesses a strong track record of developing end-to-end solutions that prioritize functionality and user-centric design.
+Driven and detail-oriented Full Stack Developer with 4+ years of experience designing, developing, and maintaining dynamic web applications. Proficient in modern frameworks like Laravel, React, and Vue, with a strong background in API integration, database management (MySQL, PostgreSQL), and responsive UI design. Passionate about coding best practices and collaborating with teams to innovate and streamline processes.
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
   <a>
